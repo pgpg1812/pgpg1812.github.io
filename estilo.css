@@ -1,0 +1,25 @@
+#myVideo{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-height: 100%;
+    min-width: 100%;
+    z-index: -100;
+}
+
+.content{
+    top: 0;
+    color: #ffffff;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+h1, p,div {
+    text-align: center;
+}
+.sexo {
+    font-size: 40px;
+}
+
